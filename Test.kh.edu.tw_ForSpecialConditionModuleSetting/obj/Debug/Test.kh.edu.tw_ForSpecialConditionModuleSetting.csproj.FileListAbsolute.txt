@@ -1,0 +1,4 @@
+C:\Users\ED\Documents\Visual Studio 2013\Projects\Test.kh.edu.tw_ForSpecialConditionModuleSetting\bin\Debug\Test.kh.edu.tw_ForSpecialConditionModuleSetting.dll
+C:\Users\ED\Documents\Visual Studio 2013\Projects\Test.kh.edu.tw_ForSpecialConditionModuleSetting\bin\Debug\Test.kh.edu.tw_ForSpecialConditionModuleSetting.pdb
+C:\Users\ED\Documents\Visual Studio 2013\Projects\Test.kh.edu.tw_ForSpecialConditionModuleSetting\obj\Debug\Test.kh.edu.tw_ForSpecialConditionModuleSetting.dll
+C:\Users\ED\Documents\Visual Studio 2013\Projects\Test.kh.edu.tw_ForSpecialConditionModuleSetting\obj\Debug\Test.kh.edu.tw_ForSpecialConditionModuleSetting.pdb
